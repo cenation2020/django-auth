@@ -1,1 +1,1 @@
-# django-auth
+Basic JWT Token based Authentication
